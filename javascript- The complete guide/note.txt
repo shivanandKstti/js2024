@@ -1,0 +1,18 @@
+what is javascript?
+javascript is a dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted programming language.
+it can be executed as part of a webpage in a browser or direcly on machince
+
+javascript was created to make webpage more dynamic 
+
+javascript is totally independednt from java
+
+#### how do webpage work?
+
+user vist -> webpage client browser 
+vist -> request send to server
+server -> send back response    
+
+
+#### javascript in action:
+
+
